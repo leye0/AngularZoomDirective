@@ -8,6 +8,6 @@ Just add a 'zoom' attribute in your img.
 
 * Think about modifying app.directive to fit your needs.
 
-Example:
+Live Demo:
 
-https://cdn.rawgit.com/leye0/AngularZoomDirective/master/jqueryZoomDemo.html
+https://cdn.rawgit.com/leye0/AngularZoomDirective/c136743f46f13947bff1c38dd72e4822a22ac7f7/demox.html
